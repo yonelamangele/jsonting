@@ -44,13 +44,13 @@
     ],
     "education": [
         {
-            "description": "",
+            "description": "I am currently doing a 12-month coding course at Life Choices Coding Academy and I am learning multiple programming languages such as HTML, CSS, BOOTSTRAP, etc.",
             "year": "April 2024 -Present",
             "placeOfInstitution": "Life Choices Coding academy",
             "image": "// https://yonelamangele.github.io/Images/logo_429x99.png"
         },
         {
-            "description": "",
+            "description": "I did coding from Gr10 until Gr12 at COSAT, which is a secondary school in Khayelitsha, Cape Town. I only learned mostly HTML because it was the only programming language that was provided.",
             "year": "January 2018 - November 2022",
             "placeOfInstitution": "Centre Of Science And Technology",
             "image": "https://yonelamangele.github.io/Images/1630566080147.jpg"
@@ -100,21 +100,24 @@
             "image": "https://yonelamangele.github.io/YMvueportifolio/src/imgs/20240422_121001.jpg"
         },
         {
-            "name": "Matthew Dean Brown",
-            "position": "Lecturer",
-            "message": "",
-            "image": "https://yonelamangele.github.io/YMvueportifolio/src/imgs/Matthew%20(1).png"
-        },
-        {
             "name": "Marcus Adonis",
             "position": "Student",
             "message": "Quiet and humble person but enjoys the company of people. Works hard and as a lot of good ideas that are flexible that works well within a team.",
             "image": "https://yonelamangele.github.io/YMvueportifolio/src/imgs/20240422_120221.jpg"
+        },
+        {
+            "name": "Siphokuhle Nyana",
+            "position": "Student",
+            "message": "Yonela has a unique ability to approach complex problems with a clear and level head, always finding creative solutions that benefit the project and the team. Their communication skills are outstanding,one of Yonela Mangele’s greatest strengths is their ability to work well under pressure. They remain calm and focused, even in the most challenging situations, and their positivity is contagious.I have learned so much from him and appreciate the support and guidance they have provided me during our time working together. I highly recommend Yonela to anyone looking for a talented and dedicated professional.",
+            "image": "https://yonelamangele.github.io/YMvueportifolio/src/imgs/20240422_120221.jpg"
+
         }
     ],
     "contacts": [
         {
-            "":""
+            "email": "yonelamangele1700@gmail.com",
+            "location": "Khayelitsha",
+            "cellnumber": "068 425 5886"
         }
     ]
 }   
